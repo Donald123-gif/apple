@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01 12:45:00 UTC+8 (Apple US / CN / HK 三区官网全量核验版)",
-  "source": "Apple Official Tech Specs & Store (US / CN / HK)",
+  "updatedAt": "2026-11-01 08:41:20 UTC",
+  "source": "Apple Official Tech Specs & Store (US / CN / HK Audited)",
   "fxRates": {
-    "CNY": 7.15,
-    "HKD": 7.78
+    "CNY": 6.670992,
+    "HKD": 7.845373
   },
   "count": 20,
   "models": [
